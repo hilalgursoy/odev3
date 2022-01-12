@@ -1,5 +1,5 @@
-# Kodluyoruz Odev 2
-Bu repo [Kodluyoruz]("https://kodluyoruz.org") Front-End Eğitiminde oluşturduğum ikinci ödev. İçerisinde bir adet image klasörü, bir adet README dosyası, bir adet de index.html barındırıyor.
+# Kodluyoruz Odev 3
+Bu repo [Kodluyoruz]("https://kodluyoruz.org") Front-End Eğitiminde oluşturduğum üçüncü ödev. İçerisinde bir adet image klasörü, bir adet README dosyası, bir adet style.css, bir adet de index.html barındırıyor.
 
 ![odev gorsel](https://github.com/hilalgursoy/odev3/blob/master/image/odev3.jpg)
 
